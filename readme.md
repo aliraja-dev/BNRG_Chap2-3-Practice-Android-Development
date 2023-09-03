@@ -1,3 +1,3 @@
-# CS5254 Mobile Application Development Project 0
+# CS5254 Mobile Application Development Chap 2 & 3 BNRG Practice
 
-Boiler Plate Single Activity - Android Application
+Chap 2 & 3 Practice from BNRG Book
